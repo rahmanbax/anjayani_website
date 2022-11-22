@@ -2,4 +2,6 @@
 
 my first html css fakeproject
 
-learning by doing :)
+i'm still learning :-)
+
+22/11/2022
